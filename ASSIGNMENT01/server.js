@@ -1,3 +1,5 @@
+// Express API for COMP2068 Assignment 1
+
 const express = require('express');
 const app = express();
 
