@@ -2,7 +2,7 @@ const contacts = [];
 
 exports.getProfile = (req, res) => {
   res.json({
-    name: "Your Name",
+    name: "Shakhboz Soliev",
     title: "Web Developer",
     summary: "Express Portfolio API"
   });
